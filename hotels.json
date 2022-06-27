@@ -1,14 +1,14 @@
 {
-  "hotels": [
+  "japan": [
     {
       "id": "1",
       "name": "Oyo Hotel",
-      "price_per_night": "3.4",
+      "price_per_night": "3",
       "phone_number": "0",
+      "image": "https://www.softwaresuggest.com/blog/wp-content/uploads/2018/11/hotel-wifi-696x278.png",
       "address": "0",
-      "LAT": "0",
-      "LNG": "freeWifi",
-      "image": "https://www.softwaresuggest.com/blog/wp-content/uploads/2018/11/hotel-wifi-696x278.png"
+      "LAT": "0.1",
+      "LNG": "0.1"
     },
     {
       "name": "Abc Hotel",
